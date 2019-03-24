@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="32102" started-at="2019-03-24T02:48:19Z" finished-at="2019-03-24T02:48:51Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="32102" started-at="2019-03-24T02:48:19Z" finished-at="2019-03-24T02:48:51Z">
+      <class name="Regresssion.E2E">
+        <test-method status="PASS" signature="setup2()[pri:0, instance:Regresssion.E2E@1e88b3c]" name="setup2" duration-ms="32038" started-at="2019-03-24T02:48:19Z" finished-at="2019-03-24T02:48:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup2 -->
+      </class> <!-- Regresssion.E2E -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Test Automation Suite" duration-ms="98100" started-at="2019-03-24T10:43:52Z" finished-at="2019-03-24T10:45:30Z">
+    <groups>
+    </groups>
+    <test name="Practise Test" duration-ms="98100" started-at="2019-03-24T10:43:52Z" finished-at="2019-03-24T10:45:30Z">
+      <class name="Regresssion.E2E">
+        <test-method status="PASS" signature="setup2()[pri:0, instance:Regresssion.E2E@2d209079]" name="setup2" duration-ms="30898" started-at="2019-03-24T10:44:20Z" finished-at="2019-03-24T10:44:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup2 -->
+      </class> <!-- Regresssion.E2E -->
+      <class name="Regresssion.AnilTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:Regresssion.AnilTest@2f7c7260]" name="setup" duration-ms="27940" started-at="2019-03-24T10:43:52Z" finished-at="2019-03-24T10:44:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+      </class> <!-- Regresssion.AnilTest -->
+      <class name="Regresssion.ClearTrip">
+        <test-method status="PASS" signature="setup1()[pri:0, instance:Regresssion.ClearTrip@6bdf28bb]" name="setup1" duration-ms="39194" started-at="2019-03-24T10:44:51Z" finished-at="2019-03-24T10:45:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup1 -->
+      </class> <!-- Regresssion.ClearTrip -->
+    </test> <!-- Practise Test -->
+  </suite> <!-- Test Automation Suite -->
+</testng-results>
