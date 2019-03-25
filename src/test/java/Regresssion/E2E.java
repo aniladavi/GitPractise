@@ -16,7 +16,7 @@ public class E2E {
 	@Test
 	public void setup2() throws InterruptedException
 	{
-	System.setProperty("webdriver.chrome.driver","C:\\Anil_Sumtotal\\D_Drive\\sts3.9.2workspace\\chromedriver.exe");
+	System.setProperty("webdriver.chrome.driver","C:\\Users\\anilvsa\\eclipse\\Ref\\chromedriver.exe");
 	WebDriver driver =new ChromeDriver();
 	driver.manage().window().maximize();
 	driver.manage().deleteAllCookies();

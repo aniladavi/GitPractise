@@ -10,7 +10,7 @@ public class AnilTest {
 	@Test
 	public void setup()
 	{
-	System.setProperty("webdriver.chrome.driver","C:\\Anil_Sumtotal\\D_Drive\\sts3.9.2workspace\\chromedriver.exe");
+	System.setProperty("webdriver.chrome.driver","C:\\Users\\anilvsa\\eclipse\\Ref\\chromedriver.exe");
 	WebDriver driver =new ChromeDriver();
 	driver.get("http://www.learn-automation.com");
 	Assert.assertTrue(driver.getTitle().contains("Selenium"));
